@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.fundo{
+    background: url("./img/backgorund.png") no-repeat;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background-size: cover;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.youtube{
+    list-style: url(./img/Youtube.png);
+}
+.instagram{
+    list-style: url(./img/Insta.png);
+}
+.twitter{
+    list-style: url(./img/Twitter.png);
+}
